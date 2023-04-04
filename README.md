@@ -24,3 +24,5 @@ The script will then convert the Spotify playlist and create the new Apple Music
 
 
 
+_Thank you ChatGPT for this repo _ 🤖 🔉🔊
+
